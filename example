@@ -1,0 +1,9 @@
+TLDR: A chat were users logged into the same Linux machine can talk to each other in terminal.
+
+Name: to be thought out
+The idea is that the users that are logged into the same Linux machine whether it's they're logged in with SSH or locally can talk to each other in the terminal.
+
+Functions:
+  Fetch all users that are logged in
+  privately send messages to a specific user
+  send global messages
