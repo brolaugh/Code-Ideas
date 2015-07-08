@@ -1,0 +1,6 @@
+Conways's Game of Life
+
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+2D: Hexgrid, squaregrid
+3D: squaregrid, trigrid
